@@ -1,2 +1,2 @@
-# MatrixComputation
-This is all assigments of Matrix Computation class
+# AdvanceImageProcesing
+This is all assigments of Advance Image Procesing class
