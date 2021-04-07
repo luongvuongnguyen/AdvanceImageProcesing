@@ -1,2 +1,2 @@
 # Advance Image Proccesing
-This is all assigments of Advance Image Procesing class
+These are all assignments of the Advance Image Processing class
